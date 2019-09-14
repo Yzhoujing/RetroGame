@@ -9,11 +9,11 @@
 
 This game is based on the Flappy Bird and make some UI change from bird to Mario. The score is the count of tubes be safely passed.
 
-![Screen_Shot_2018-10-19_at_11.48.21](/uploads/3ca435219185428f9e3d63e25e0df578/Screen_Shot_2018-10-19_at_11.48.21.png)
+![initial-screen](https://gitlab.cecs.anu.edu.au/u6490332/RetroGame2018s2/uploads/3ca435219185428f9e3d63e25e0df578/Screen_Shot_2018-10-19_at_11.48.21.png)
 Initial Game Lauch 
-![Screen_Shot_2018-10-19_at_11.58.50](/uploads/390400457568670cd1b95587d94e9a2c/Screen_Shot_2018-10-19_at_11.58.50.png)
+![game-in-progress](https://gitlab.cecs.anu.edu.au/u6490332/RetroGame2018s2/uploads/390400457568670cd1b95587d94e9a2c/Screen_Shot_2018-10-19_at_11.58.50.png)
 Game In-Progress
-![Screen_Shot_2018-10-19_at_12.05.11](/uploads/ee5f290e3a038a8aa4f83e36bfb4e1d9/Screen_Shot_2018-10-19_at_12.05.11.png)
+![score-board](https://gitlab.cecs.anu.edu.au/u6490332/RetroGame2018s2/uploads/ee5f290e3a038a8aa4f83e36bfb4e1d9/Screen_Shot_2018-10-19_at_12.05.11.png)
 Gameover
 ## Design Documentation 
 + [Design Summary](designsummary)
@@ -36,11 +36,11 @@ I, Weidi Wang, declare that everything I have submitted in this assignment is en
 
 ### Inspiration
 
-_add references from where you obtained the idea form the game and ideas about aspects of the game_
+Because we both love Mario and flappy bird. And we want to combine these two classic game into one to arouse people's memories and bring them happiness. 
 
 ### Code
 
-public static Bitmap getResizedBitmap(Bitmap image, int newWidth, int newHeight){
+``public static Bitmap getResizedBitmap(Bitmap image, int newWidth, int newHeight){
         int width = image.getWidth();
         int height = image.getHeight();
         float scaleWidth = ((float) newWidth) / width;
@@ -54,7 +54,7 @@ public static Bitmap getResizedBitmap(Bitmap image, int newWidth, int newHeight)
                 Bitmap.createBitmap(image, 0, 0, width, height, matrix, false);
         image.recycle();
         return resizedBitmap;
-    }
+    }``
 
 ### Assets 
 
