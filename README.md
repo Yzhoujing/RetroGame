@@ -18,14 +18,6 @@ Gameover </n>
 ![score-board](https://gitlab.cecs.anu.edu.au/u6490332/RetroGame2018s2/uploads/ee5f290e3a038a8aa4f83e36bfb4e1d9/Screen_Shot_2018-10-19_at_12.05.11.png)
 
 
-## Statement of Originality
-
-I, Zhenyu Ni, declare that everything I have submitted in this assignment is entirely my own work, with exceptions given below.
-
-I, Zhoujing Yang, declare that everything I have submitted in this assignment is entirely my own work, with exceptions given below.
-
-I, Weidi Wang, declare that everything I have submitted in this assignment is entirely my own work, with exceptions given below.
-
 ### Inspiration
 
 Because we both love Mario and flappy bird. And we want to combine these two classic game into one to arouse people's memories and bring them happiness. 
