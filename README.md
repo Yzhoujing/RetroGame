@@ -14,9 +14,11 @@ Initial Game Lauch </n>
 ![initial-screen](https://gitlab.cecs.anu.edu.au/u6490332/RetroGame2018s2/uploads/3ca435219185428f9e3d63e25e0df578/Screen_Shot_2018-10-19_at_11.48.21.png)
 
 Game In-Progress </n>
+
 ![game-in-progress](https://gitlab.cecs.anu.edu.au/u6490332/RetroGame2018s2/uploads/390400457568670cd1b95587d94e9a2c/Screen_Shot_2018-10-19_at_11.58.50.png)
 
 Gameover</n>
+
 ![score-board](https://gitlab.cecs.anu.edu.au/u6490332/RetroGame2018s2/uploads/ee5f290e3a038a8aa4f83e36bfb4e1d9/Screen_Shot_2018-10-19_at_12.05.11.png)
 
 
