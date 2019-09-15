@@ -20,7 +20,7 @@ Gameover </n>
 
 ### Inspiration
 
-Because we both love Mario and flappy bird. And we want to combine these two classic game into one to arouse people's memories and bring them happiness. 
+Because I love Mario and flappy bird. And we want to combine these two classic game into one to arouse people's memories and bring them happiness. 
 
 ### Code
 
