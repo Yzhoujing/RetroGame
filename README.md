@@ -1,9 +1,5 @@
 # Retro Game - FlappyMario
 
-## Team structure and roles 
-+ Zhenyu Ni u6099206 - team leader, help page code, morale builder
-+ Zhoujing Yang u6490332 - note taker, documentation checker, user input
-+ Weidi Wang u6781177 - tricky android code, game state, game graphics rendering
 
 ## Game Overview 
 
